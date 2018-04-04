@@ -1,0 +1,6 @@
+[package]
+name = "react_rust_webapp"
+version = "0.1.0"
+
+[dependencies]
+rouille = "2.1.0"
